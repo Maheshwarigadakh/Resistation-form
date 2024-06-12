@@ -1,5 +1,23 @@
 *{
     margin: 0;
     padding: 0;
+}
+form{
+    margin-left: 350px;
+    margin-right: 500px;
+    font-size: 25px;
     background-color: aqua;
+    padding: 39px;
+
+}
+h1{
+
+    
+    padding-left:100px ;
+    border: 1px solid black;
+    font-size: 40px;
+}
+input{
+    margin: 13px;
+    margin-left: 20px;
 }
